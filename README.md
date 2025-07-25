@@ -44,17 +44,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmosalam&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
 ## 🏆 Popular Repositories
 
-### 🗣️ Speech Emotion Recognition Application
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedmosalam&repo=Speech_Emotion_Recognition_Application&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/ahmedmosalam/Speech_Emotion_Recognition_Application)
+*Coming soon - Working on exciting AI projects!*
 
-### 📊 IBM Data Analyst Capstone Project  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedmosalam&repo=IBM_Data_Analyst_Capstone_Project&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/ahmedmosalam/IBM_Data_Analyst_Capstone_Project)
+### 🤖 Current Projects in Development:
+- **AI-Powered Applications** using LLMs and Computer Vision
+- **Big Data Analytics** with Apache Spark
+- **Interactive Streamlit Apps** for AI demonstrations
+- **NLP Solutions** for text processing and sentiment analysis
 
 ## 🎯 Current Focus
 
