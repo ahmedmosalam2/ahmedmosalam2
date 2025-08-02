@@ -1,4 +1,4 @@
-# Hello, I'm Ahmed Mosalam! 👋
+# Hello, I'm Ahmed Mosalam!
 
 ## 💡 Featured Project
 ✅ **Interactive AI Apps** – Building AI-powered web apps with Streamlit
