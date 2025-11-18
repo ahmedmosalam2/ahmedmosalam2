@@ -26,12 +26,15 @@
 
 ---
 
-### 🚀 Professional Summary
+### 🚀 Professional Experience
 
-I am an **AI Engineer** specialized in bridging the gap between theoretical research and production-grade software. My primary focus is on **Large Language Models (LLMs)**, **Multi-Agent Systems**, and **Big Data Engineering**. I build systems that are not only intelligent but also robust and scalable.
+I am an **AI Engineer** with **2+ years of experience** in building intelligent systems. I specialize in bridging the gap between cutting-edge research and production software, focusing on **LLMs**, **Autonomous Agents**, and **Big Data Pipelines**.
 
-* 🔭 **Current Focus:** Fine-tuning Llama models & Orchestrating CrewAI Agents.
-* 💡 **Core Strength:** Transforming complex data into actionable AI insights.
+* 🤖 **Generative AI & LLMs:** Fine-tuning & deploying **GPT, LLaMA, Falcon, Mistral**.
+* 🧠 **Multi-Agent Systems:** Orchestrating autonomous workflows using **CrewAI, LangChain, AutoGen**.
+* 📊 **Data Engineering:** Designing ETL pipelines with **SQL, SSIS, SSAS** and big data solutions.
+* 👁️ **Computer Vision:** Object detection and facial analysis using Deep Learning.
+* ☁️ **Cloud & DevOps:** Deploying scalable models on **Azure AI, AWS, and Docker**.
 
 ---
 
@@ -39,9 +42,9 @@ I am an **AI Engineer** specialized in bridging the gap between theoretical rese
 
 <div align="center">
 
-| **🧠 AI & Generative Models** | **📊 Data Engineering & Cloud** | **💻 Full-Stack Integration** |
+| **🧠 AI & Generative Models** | **💾 Big Data & Backend** | **💻 Languages & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface&theme=dark&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=apache,spark,docker,mysql,azure,linux&theme=dark&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,git,postman&theme=dark&perline=3" width="150" /> |
+| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface,sklearn,opencv&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=apache,spark,docker,postgres,mysql,azure,aws,linux&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=fastapi,flask,cpp,git,selenium,streamlit&theme=dark&perline=4" /> |
 
 </div>
 
