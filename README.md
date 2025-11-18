@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer" alt="AI Engineer Typing Animation" />
 
 **Ahmed Mosalam**
 
@@ -9,48 +9,49 @@
 
 <br>
 
-> **Building scalable AI agents and data architectures.** > *Menofia University | Faculty of Artificial Intelligence*
+> Building scalable AI agents and data architectures. | Menofia University - Faculty of Artificial Intelligence
 
 </div>
 
 ---
 
-### 🚀 About
+## 🚀 About
 
-I am an AI Engineer focused on **Generative AI**, **LLMs**, and **Data Engineering**. My work revolves around bridging the gap between research and production, building systems that are not only intelligent but also scalable and reliable.
+I am an **AI Engineer** with a passion for building intelligent and scalable solutions. My expertise lies at the intersection of **Generative AI, Large Language Models (LLMs), and Data Engineering**. I am dedicated to transforming cutting-edge research into robust, production-ready applications.
 
-* **Focus:** Multi-Agent Systems, RAG Pipelines, Big Data (Spark/Hadoop).
-* **Goal:** Developing autonomous AI solutions for real-world applications.
-
----
-
-### 🛠️ Technical Proficiency
-
-**🤖 Artificial Intelligence & LLMs**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**📊 Data Engineering & Cloud**
-![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**💻 Web & Integration**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+* **Core Focus:** Designing and implementing Multi-Agent Systems, optimizing RAG pipelines, and architecting Big Data solutions.
+* **Mission:** Developing autonomous AI technologies that drive innovation and deliver tangible impact.
 
 ---
 
-### 📊 Activity
+## 🛠️ Technical Proficiency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999" height="160" alt="languages" />
+  <h3>Artificial Intelligence & LLMs</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface&theme=dark" alt="AI & LLMs Skills" style="margin-bottom: 15px;"/>
+
+  <h3>Data Engineering & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=apache,docker,mysql,azure,linux&theme=dark" alt="Data & Cloud Skills" style="margin-bottom: 15px;"/>
+
+  <h3>Web & Integration</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,git&theme=dark" alt="Web & Integration Skills" style="margin-bottom: 15px;"/>
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dark&hide_border=true&title_color=007bff&text_color=999" alt="Ahmed's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dark&hide_border=true&title_color=007bff&text_color=999" alt="Top Languages" height="180" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmosalam2&theme=github-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  </a>
 </div>
