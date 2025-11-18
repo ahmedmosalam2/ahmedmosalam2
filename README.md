@@ -1,84 +1,56 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Architecting+Multi-Agent+Systems;LLM+Fine-Tuning+%26+Deployment;Big+Data+Pipeline+Engineering" alt="Typing SVG" />
+# AI Engineer
 
-### ⚡ Ahmed Mosalam | Generative AI & Data Engineering
+**Ahmed Mosalam**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mosalam2/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedmosalam46@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ahmedmosalam2">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosalam2/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmosalam46@gmail.com)
+
+<br>
+
+> **Building scalable AI agents and data architectures.** > *Menofia University | Faculty of Artificial Intelligence*
 
 </div>
 
 ---
 
-## 👨‍💻 The Core
+### 🚀 About
 
-I am an AI Engineer bridging the gap between **Advanced Machine Learning** and **Scalable Software Architecture**. With over 2+ years of experience in Data Analysis and AI development, I focus on building intelligent agents that can reason, act, and scale.
+I am an AI Engineer focused on **Generative AI**, **LLMs**, and **Data Engineering**. My work revolves around bridging the gap between research and production, building systems that are not only intelligent but also scalable and reliable.
 
-* 🎓 **Education:** Faculty of Artificial Intelligence, Menofia University (3rd Year).
-* 🔭 **Current Focus:** Orchestrating Autonomous Agents using **CrewAI & LangChain**.
-* 💼 **Experience:** Designing end-to-end AI solutions, from data ingestion (ETL) to model deployment.
-
----
-
-## 🔭 Domain Expertise
-
-Here is how I apply my skills to solve real-world problems:
-
-### 🧠 Generative AI & NLP
-> *Designing the next generation of intelligent text systems.*
-* **Large Language Models:** Fine-tuning & deploying SOTA models (Llama 3, Mistral, Falcon).
-* **Agentic Workflows:** Building Multi-Agent Systems using **CrewAI, LangChain, and AutoGen**.
-* **RAG Pipelines:** Creating context-aware chatbots with vector databases.
-
-### 👁️ Computer Vision
-> *Teaching machines to interpret the visual world.*
-* **Visual Intelligence:** Object detection (YOLO), Facial Analysis, and Image Segmentation.
-* **Deep Learning:** Implementing CNNs using PyTorch and TensorFlow for custom image classification.
-
-### 📊 Data Engineering & BI
-> *Turning raw data into actionable strategic insights.*
-* **Big Data Architecture:** Processing massive datasets using **Apache Spark & Hadoop**.
-* **Business Intelligence:** Creating dynamic dashboards with **Power BI, SQL (SSIS/SSAS)**.
-* **Cloud Infrastructure:** Managing data pipelines on **Azure & AWS**.
-
-### 💻 Full-Stack AI Integration
-* **Deployment:** Serving models via **FastAPI & Flask** within **Docker** containers.
-* **Interactive Apps:** Rapid prototyping using **Streamlit**.
+* **Focus:** Multi-Agent Systems, RAG Pipelines, Big Data (Spark/Hadoop).
+* **Goal:** Developing autonomous AI solutions for real-world applications.
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+### 🛠️ Technical Proficiency
+
+**🤖 Artificial Intelligence & LLMs**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**📊 Data Engineering & Cloud**
+![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**💻 Web & Integration**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 Activity
 
 <div align="center">
-
-| **AI & Deep Learning** | **GenAI & LLMs** | **Data & Cloud** | **Dev & Tools** |
-| :---: | :---: | :---: | :---: |
-| ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) <br> ![Scikit](https://skillicons.dev/icons?i=scikitlearn&theme=dark) ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark) | ![OpenAI](https://skillicons.dev/icons?i=openai&theme=dark) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![Spark](https://skillicons.dev/icons?i=apache&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) <br> ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://skillicons.dev/icons?i=mysql&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) <br> ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) |
-
-</div>
-
----
-
-## 📈 Engineering Metrics
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-<div align="center">
-  <sub><i>"Transforming data into intelligent insights."</i></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999" height="160" alt="languages" />
 </div>
