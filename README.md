@@ -1,57 +1,74 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer" alt="AI Engineer Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI+%26+LLMs;Data+Architecture" alt="Typing SVG" />
 
-**Ahmed Mosalam**
+### Ahmed Mosalam
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosalam2/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmosalam46@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mosalam2/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedmosalam46@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
-> Building scalable AI agents and data architectures. | Menofia University - Faculty of Artificial Intelligence
+> **"Architecting intelligent agents and scalable data pipelines."**
+> <br>
+> <sub>Faculty of Artificial Intelligence, Menofia University</sub>
 
 </div>
 
 ---
 
-## 🚀 About
+### 🚀 Professional Summary
 
-I am an **AI Engineer** with a passion for building intelligent and scalable solutions. My expertise lies at the intersection of **Generative AI, Large Language Models (LLMs), and Data Engineering**. I am dedicated to transforming cutting-edge research into robust, production-ready applications.
+I am an **AI Engineer** specialized in bridging the gap between theoretical research and production-grade software. My primary focus is on **Large Language Models (LLMs)**, **Multi-Agent Systems**, and **Big Data Engineering**. I build systems that are not only intelligent but also robust and scalable.
 
-* **Core Focus:** Designing and implementing Multi-Agent Systems, optimizing RAG pipelines, and architecting Big Data solutions.
-* **Mission:** Developing autonomous AI technologies that drive innovation and deliver tangible impact.
+* 🔭 **Current Focus:** Fine-tuning Llama models & Orchestrating CrewAI Agents.
+* 💡 **Core Strength:** Transforming complex data into actionable AI insights.
 
 ---
 
-## 🛠️ Technical Proficiency
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <h3>Artificial Intelligence & LLMs</h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface&theme=dark" alt="AI & LLMs Skills" style="margin-bottom: 15px;"/>
 
-  <h3>Data Engineering & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=apache,docker,mysql,azure,linux&theme=dark" alt="Data & Cloud Skills" style="margin-bottom: 15px;"/>
+| **🧠 AI & Generative Models** | **📊 Data Engineering & Cloud** | **💻 Full-Stack Integration** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface&theme=dark&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=apache,spark,docker,mysql,azure,linux&theme=dark&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,git,postman&theme=dark&perline=3" width="150" /> |
 
-  <h3>Web & Integration</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,git&theme=dark" alt="Web & Integration Skills" style="margin-bottom: 15px;"/>
 </div>
 
 ---
 
-## 📊 Activity
+### 📊 Engineering Metrics
 
 <div align="center">
+  
   <a href="https://github.com/ahmedmosalam2">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dark&hide_border=true&title_color=007bff&text_color=999" alt="Ahmed's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="170" alt="github stats"/>
   </a>
+  
   <a href="https://github.com/ahmedmosalam2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dark&hide_border=true&title_color=007bff&text_color=999" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="170" alt="top langs"/>
   </a>
+
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://github.com/ahmedmosalam2">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmosalam2&theme=github-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmosalam2&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <sub><i>Let's build the future of AI together.</i></sub>
 </div>
