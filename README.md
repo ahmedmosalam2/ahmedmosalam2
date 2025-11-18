@@ -1,67 +1,70 @@
 <div align="center">
 
-# Hi there, I'm Ahmed Mosalam 👋
-### Generative AI Engineer | LLM Researcher | Data Scientist
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ahmed+Mosalam;Architecting+AI+Agents;Fine-Tuning+LLMs;Crunching+Big+Data" alt="Typing SVG" />
 
-Example of a clean, minimal header description highlighting your core focus.
-**"Transforming data into intelligent insights and building AI agents that matter."**
+### ⚡ AI Engineer | Generative AI & Multi-Agent Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosalam2/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmedmosalam46@gmail.com)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I am an AI Engineer deeply passionate about **Generative AI, Multi-Agent Systems, and Big Data Architecture**. Currently exploring the frontiers of Large Language Models (LLMs) and their integration into scalable software solutions. My goal is to bridge the gap between theoretical AI research and practical, production-ready applications.
-
-- 🔭 I’m currently working on **Multi-Agent Systems using CrewAI & LangChain**.
-- 🌱 I’m currently learning **Advanced Computer Vision & Embedded AI**.
-- 👯 I’m looking to collaborate on **Open Source GenAI projects**.
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-### 🧠 Artificial Intelligence & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,keras&theme=dark" />
-
-### 🤖 GenAI & LLM Frameworks
-<img src="https://skillicons.dev/icons?i=openai,huggingface,langchain&theme=dark" />
-### 📊 Big Data & Analysis
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,apache,spark,hadoop,kafka&theme=dark" />
-
-### 💻 Development & Deployment
-<img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,mongodb,flask,fastapi,streamlit&theme=dark" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mosalam2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedmosalam46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💡 Key Focus Areas
+### 👨‍💻 The Mission
 
-| **Generative AI** | **Big Data Engineering** | **Computer Vision** |
-| :--- | :--- | :--- |
-| Fine-tuning LLMs (Llama, Mistral) <br> RAG Pipelines <br> AI Agents (AutoGen, CrewAI) | Apache Spark Ecosystem <br> Distributed Computing <br> Data Pipelines (ETL) | Object Detection <br> Image Segmentation <br> Facial Analysis |
+I am an AI Engineer based in Egypt, focused on the intersection of **Large Language Models (LLMs)** and **Distributed Systems**. My work involves building autonomous agents that can "reason" and process data at scale.
+
+* **Current Obsession:** Orchestrating Multi-Agent systems using **CrewAI** & **LangChain**.
+* **Research Interest:** Optimizing RAG pipelines for high-context retrieval.
+* **Background:** Faculty of Artificial Intelligence, Menofia University.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Engineering Arsenal
+
+| **Core AI & ML** | **Generative AI Stack** | **Big Data & Cloud** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+### 🏆 Featured Implementations
 
 <div align="center">
+<a href="https://github.com/ahmedmosalam2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmosalam2&repo=YOUR-BEST-REPO-NAME-HERE&theme=radical" />
+</a>
+<a href="https://github.com/ahmedmosalam2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmosalam2&repo=YOUR-SECOND-BEST-REPO&theme=radical" />
+</a>
+</div>
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+### 📊 GitHub Analytics
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmosalam2&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Let's build something incredible together.</sub>
+  <sub><i>"The best way to predict the future is to invent it."</i></sub>
 </div>
