@@ -1,84 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Architecting+Multi-Agent+Systems;LLM+Fine-Tuning+%26+Deployment;Big+Data+Pipeline+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer" alt="AI Engineer Typing Animation" />
 
-### ⚡ Ahmed Mosalam | Generative AI & Data Engineering
+**Ahmed Mosalam**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mosalam2/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedmosalam46@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosalam2/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmosalam46@gmail.com)
+
+<br>
+
+> Building scalable AI agents and data architectures. | Menofia University - Faculty of Artificial Intelligence
+
+</div>
+
+---
+
+## 🚀 About
+
+I am an **AI Engineer** with a passion for building intelligent and scalable solutions. My expertise lies at the intersection of **Generative AI, Large Language Models (LLMs), and Data Engineering**. I am dedicated to transforming cutting-edge research into robust, production-ready applications.
+
+* **Core Focus:** Designing and implementing Multi-Agent Systems, optimizing RAG pipelines, and architecting Big Data solutions.
+* **Mission:** Developing autonomous AI technologies that drive innovation and deliver tangible impact.
+
+---
+
+## 🛠️ Technical Proficiency
+
+<div align="center">
+  <h3>Artificial Intelligence & LLMs</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface&theme=dark" alt="AI & LLMs Skills" style="margin-bottom: 15px;"/>
+
+  <h3>Data Engineering & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=apache,docker,mysql,azure,linux&theme=dark" alt="Data & Cloud Skills" style="margin-bottom: 15px;"/>
+
+  <h3>Web & Integration</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,git&theme=dark" alt="Web & Integration Skills" style="margin-bottom: 15px;"/>
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dark&hide_border=true&title_color=007bff&text_color=999" alt="Ahmed's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/ahmedmosalam2">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dark&hide_border=true&title_color=007bff&text_color=999" alt="Top Languages" height="180" />
   </a>
-</p>
-
 </div>
 
----
-
-## 👨‍💻 The Core
-
-I am an AI Engineer bridging the gap between **Advanced Machine Learning** and **Scalable Software Architecture**. With over 2+ years of experience in Data Analysis and AI development, I focus on building intelligent agents that can reason, act, and scale.
-
-* 🎓 **Education:** Faculty of Artificial Intelligence, Menofia University (3rd Year).
-* 🔭 **Current Focus:** Orchestrating Autonomous Agents using **CrewAI & LangChain**.
-* 💼 **Experience:** Designing end-to-end AI solutions, from data ingestion (ETL) to model deployment.
-
----
-
-## 🔭 Domain Expertise
-
-Here is how I apply my skills to solve real-world problems:
-
-### 🧠 Generative AI & NLP
-> *Designing the next generation of intelligent text systems.*
-* **Large Language Models:** Fine-tuning & deploying SOTA models (Llama 3, Mistral, Falcon).
-* **Agentic Workflows:** Building Multi-Agent Systems using **CrewAI, LangChain, and AutoGen**.
-* **RAG Pipelines:** Creating context-aware chatbots with vector databases.
-
-### 👁️ Computer Vision
-> *Teaching machines to interpret the visual world.*
-* **Visual Intelligence:** Object detection (YOLO), Facial Analysis, and Image Segmentation.
-* **Deep Learning:** Implementing CNNs using PyTorch and TensorFlow for custom image classification.
-
-### 📊 Data Engineering & BI
-> *Turning raw data into actionable strategic insights.*
-* **Big Data Architecture:** Processing massive datasets using **Apache Spark & Hadoop**.
-* **Business Intelligence:** Creating dynamic dashboards with **Power BI, SQL (SSIS/SSAS)**.
-* **Cloud Infrastructure:** Managing data pipelines on **Azure & AWS**.
-
-### 💻 Full-Stack AI Integration
-* **Deployment:** Serving models via **FastAPI & Flask** within **Docker** containers.
-* **Interactive Apps:** Rapid prototyping using **Streamlit**.
-
----
-
-## 🛠️ The Arsenal (Tech Stack)
-
 <div align="center">
-
-| **AI & Deep Learning** | **GenAI & LLMs** | **Data & Cloud** | **Dev & Tools** |
-| :---: | :---: | :---: | :---: |
-| ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) <br> ![Scikit](https://skillicons.dev/icons?i=scikitlearn&theme=dark) ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark) | ![OpenAI](https://skillicons.dev/icons?i=openai&theme=dark) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![Spark](https://skillicons.dev/icons?i=apache&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) <br> ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://skillicons.dev/icons?i=mysql&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) <br> ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) |
-
-</div>
-
----
-
-## 📈 Engineering Metrics
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-<div align="center">
-  <sub><i>"Transforming data into intelligent insights."</i></sub>
+  <a href="https://github.com/ahmedmosalam2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmosalam2&theme=github-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  </a>
 </div>
