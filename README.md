@@ -30,19 +30,19 @@
 
 I am an **AI Engineer** with **2+ years of experience** in building intelligent systems. I specialize in bridging the gap between cutting-edge research and production software, focusing on **LLMs**, **Autonomous Agents**, and **Big Data Pipelines**.
 
-* 🤖 **Generative AI & LLMs:** Fine-tuning & deploying **GPT, LLaMA, Falcon, Mistral**.
-* 🧠 **Multi-Agent Systems:** Orchestrating autonomous workflows using **CrewAI, LangChain, AutoGen**.
-* 📊 **Data Engineering:** Designing ETL pipelines with **SQL, SSIS, SSAS** and big data solutions.
-* 👁️ **Computer Vision:** Object detection and facial analysis using Deep Learning.
-* ☁️ **Cloud & DevOps:** Deploying scalable models on **Azure AI, AWS, and Docker**.
+*  **Generative AI & LLMs:** Fine-tuning & deploying **GPT, LLaMA, Falcon, Mistral**.
+*  **Multi-Agent Systems:** Orchestrating autonomous workflows using **CrewAI, LangChain, AutoGen**.
+*  **Data Engineering:** Designing ETL pipelines with **SQL, SSIS, SSAS** and big data solutions.
+*  **Computer Vision:** Object detection and facial analysis using Deep Learning.
+*  **Cloud & DevOps:** Deploying scalable models on **Azure AI, AWS, and Docker**.
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 <div align="center">
 
-| **🧠 AI & Generative Models** | **💾 Big Data & Backend** | **💻 Languages & Tools** |
+| ** AI & Generative Models** | **💾 Big Data & Backend** | **💻 Languages & Tools** |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface,sklearn,opencv&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=apache,spark,docker,postgres,mysql,azure,aws,linux&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=fastapi,flask,cpp,git,selenium,streamlit&theme=dark&perline=4" /> |
 
