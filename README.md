@@ -2,85 +2,103 @@
 
 # Ahmed Mosalam
 
-### 🤖 AI Engineer | Agentic Systems | Production RAG
+### 🤖 AI Engineer | Agentic Systems & RAG
 
-> Building autonomous systems that detect, diagnose, and remediate production incidents at scale.
+**Building autonomous systems that detect, diagnose, and fix production incidents at scale.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosalam2/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmosalam46@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmosalam2)
+I build the critical infrastructure and engineering that make scalable, production-ready AI systems.
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## What I Deliver
 
-**Autonomous Operations** — Multi-agent systems that detect production incidents, diagnose root causes, and execute fixes without human intervention.
+| Area | The Value I Bring | Core Tech |
+|------|------------------|-----------|
+| **Autonomous Operations** | Multi-agent systems handling production incidents end-to-end. From detection to remediation. | Temporal, FastAPI, PostgreSQL |
+| **RAG at Scale** | Bringing hybrid retrieval and LLM systems by engineering pipelines that handle real-time inference. | LangChain, LangGraph, Vector DBs |
+| **Agent Orchestration** | Architecting durable workflows, error recovery, and automated coordination that scales reliably. | Temporal, CrewAI, Python |
+| **System Architecture** | Building high-performance databases, APIs, and infrastructure capable of handling production workloads. | PostgreSQL, Docker, Kubernetes |
 
-**RAG at Scale** — Production-grade retrieval pipelines with hybrid search, semantic matching, and intelligent reranking.
+---
 
-**Multi-Agent Orchestration** — Temporal-based durable workflows with human safety gates, error recovery, and observability.
+## 🛠 Skills & Technologies
+
+**AI & Machine Learning**
+- Python
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face
+- OpenCV
+
+**Agentic Frameworks & LLMs**
+- LangChain
+- LangGraph
+- CrewAI
+- AutoGen
+- Temporal
+- FastAPI
+
+**Backend & Infrastructure**
+- Docker
+- Kubernetes
+- PostgreSQL
+- Redis
+- FastAPI
+- Linux
+
+**Languages & Tools**
+- Python
+- C++
+- Rust
+- Go
+- Git
+- SQL
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- Redis
+- Elasticsearch
+- Vector Databases
+- TimescaleDB
 
 ---
 
 ## 🏆 Featured Projects
 
-### [Aegis](https://github.com/ahmedmosalam2/Aegis)
-**AI-Powered Autonomous Operations Platform**
-
+### [Aegis](https://github.com/ahmedmosalam2/Aegis) — AI Autonomous Operations Platform
 Detects and remediates production incidents using multi-agent coordination, durable workflows, and human approval gates.
 
 **Tech:** FastAPI • Temporal • PostgreSQL • Docker • gRPC  
-**Features:** Incident detection • Root cause diagnosis • Automated remediation • Observability
+**Key Achievement:** Autonomous incident detection and remediation without manual intervention, with full observability and safety controls.
 
 ---
 
-### Satr Edu AI
-**Agentic RAG Educational Platform** *(Graduation Project)*
-
-Full-stack educational platform with multi-agent orchestration, OCR-based document pipelines, and AI-powered exam generation.
+### Satr Edu AI — Agentic RAG Educational Platform *(Graduation Project)*
+Full-stack educational platform with multi-agent orchestration, OCR document pipelines, hybrid RAG retrieval, and AI exam generation.
 
 **Tech:** Python • LangGraph • PostgreSQL • FastAPI • Docker  
-**Features:** Adaptive learning • Document OCR • Hybrid RAG • Exam generation with validation
+**Key Achievement:** Adaptive learning with intelligent document processing and semantic search for educational content.
 
 ---
 
-### [Mizan](https://github.com/ahmedmosalam2/Mizan)
-**Agent Framework Benchmarking Suite**
-
-Open-source benchmark evaluating 19+ AI agent frameworks against standardized MENA business scenarios.
+### [Mizan](https://github.com/ahmedmosalam2/Mizan) — Agent Framework Benchmark
+Evaluates 19+ AI agent frameworks against standardized MENA business scenarios with performance metrics and comparison tooling.
 
 **Tech:** CrewAI • LangGraph • Python  
-**Features:** Framework comparison • Performance metrics • Scenario-based evaluation
+**Key Achievement:** Comprehensive benchmarking suite for agent framework evaluation in production contexts.
 
 ---
 
-## 🛠 Technology Stack
+## 💼 Current Focus
 
-**AI & Deep Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Agentic Frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)
-![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square)
-![AutoGen](https://img.shields.io/badge/AutoGen-4B32C3?style=flat-square)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Engineering highly optimized FastAPI microservices for low-latency AI model serving
+- Building multi-agent systems with advanced orchestration and error recovery
+- Designing continuous integration and deployment (CI/CD) automation for production AI systems
+- Architecting scalable RAG pipelines with hybrid retrieval strategies
 
 ---
 
@@ -96,7 +114,7 @@ Open-source benchmark evaluating 19+ AI agent frameworks against standardized ME
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmosalam2&theme=dracula&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B35&border=38BDF8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmosalam2&theme=dracula&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B35)
 
 </div>
 
@@ -117,5 +135,5 @@ Open-source benchmark evaluating 19+ AI agent frameworks against standardized ME
 ---
 
 <div align="center">
-  <sub><i>Architecting intelligent, scalable systems for production environments.</i></sub>
+  <sub><i>Building production-grade AI systems that scale, stay secure, and solve real problems.</i></sub>
 </div>
