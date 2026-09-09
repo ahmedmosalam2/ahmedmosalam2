@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI+%26+LLMs;Data+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+Engineering+Systems;Agentic+AI+%26+RAG+Pipelines;Multi-Agent+Orchestration" alt="Typing SVG" />
 
-### Ahmed Mosalam
+# Ahmed Mosalam
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mosalam2/">
@@ -16,62 +16,74 @@
   </a>
 </p>
 
-<br>
-
-> **"Architecting intelligent agents and scalable data pipelines."**
-> <br>
-> <sub>Faculty of Artificial Intelligence, Menofia University</sub>
+<sub>Faculty of Artificial Intelligence, Menofia University — Intelligence Engineering Systems, 2026</sub>
 
 </div>
 
 ---
 
-### 🚀 Professional Experience
+### About Me
 
-I am an **AI Engineer** with **2+ years of experience** in building intelligent systems. I specialize in bridging the gap between cutting-edge research and production software, focusing on **LLMs**, **Autonomous Agents**, and **Big Data Pipelines**.
+I'm an AI Engineer focused on **Agentic AI and RAG engineering** — designing systems where multiple agents, retrieval pipelines, and orchestration logic come together into something production-grade, not just a notebook demo. My work spans from building a full agentic RAG platform end-to-end, to benchmarking agent frameworks against real business scenarios, to architecting autonomous operations systems with durable workflows and human-in-the-loop safety controls.
 
-*  **Generative AI & LLMs:** Fine-tuning & deploying **GPT, LLaMA, Falcon, Mistral**.
-*  **Multi-Agent Systems:** Orchestrating autonomous workflows using **CrewAI, LangChain, AutoGen**.
-*  **Data Engineering:** Designing ETL pipelines with **SQL, SSIS, SSAS** and big data solutions.
-*  **Computer Vision:** Object detection and facial analysis using Deep Learning.
-*  **Cloud & DevOps:** Deploying scalable models on **Azure AI, AWS, and Docker**.
+I care about the engineering underneath the AI: deployment, observability, error handling, and architecture — not just wiring a framework to an API.
 
 ---
 
-###  Technical Arsenal
+### 🚀 Featured Projects
+
+**[Satr Edu AI](#)** — *Production agentic RAG educational platform (graduation project)*
+Multi-agent orchestration with hybrid retrieval and adaptive learning, fully containerized with Docker. Built the backend, an OCR/RAG chunking pipeline for scanned documents, and an exam-generation pipeline with post-generation validation.
+`Python` `RAG` `Multi-Agent Orchestration` `Docker` `OCR`
+
+**[Aegis](https://github.com/ahmedmosalam2/Aegis)** — *AI-powered autonomous operations platform*
+Detects, diagnoses, and remediates production incidents across distributed systems using multi-agent orchestration, durable workflows, human approval gates, and observability. Backend foundation built on FastAPI with Alembic-managed migrations and Docker Compose.
+`FastAPI` `Temporal` `Multi-Agent Systems` `PostgreSQL` `Docker`
+
+**[Mizan](#)** *(agentic-comparison)* — *Open-source agent framework benchmark for the MENA region*
+Evaluates 19+ AI agent frameworks against a standardized MENA business scenario, with completed runners for CrewAI and LangGraph and interactive comparison tooling.
+`CrewAI` `LangGraph` `Benchmarking` `Python`
+
+---
+
+### 🧪 Experience & Training
+
+* **Tips Hindawi** — Generative AI
+* **Elevvo Pathways** — NLP
+* **Codveda Technologies** — Machine Learning
+* **NTI** — AI Engineering
+* **ITI** — IoT
+
+---
+
+### 🛠️ Technical Toolkit
 
 <div align="center">
 
-| ** AI & Generative Models** | **💾 Big Data & Backend** | **💻 Languages & Tools** |
+| **AI & Agentic Systems** | **Backend & Data** | **Languages & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,langchain,huggingface,sklearn,opencv&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=apache,spark,docker,postgres,mysql,azure,aws,linux&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=fastapi,flask,cpp,git,selenium,streamlit&theme=dark&perline=4" /> |
+| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,huggingface,sklearn,opencv&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mysql,linux&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=cpp,git,selenium,streamlit&theme=dark&perline=4" /> |
 
 </div>
 
+*Frameworks: LangChain, LangGraph, CrewAI • Retrieval-Augmented Generation, hybrid search • Docker-based deployment*
+
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Stats
 
 <div align="center">
-  
+
   <a href="https://github.com/ahmedmosalam2">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedmosalam2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="170" alt="github stats"/>
   </a>
-  
+
   <a href="https://github.com/ahmedmosalam2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosalam2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="170" alt="top langs"/>
   </a>
 
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmosalam2&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <sub><i>Let's build the future of AI together.</i></sub>
 </div>
