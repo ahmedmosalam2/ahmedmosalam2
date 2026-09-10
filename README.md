@@ -1,6 +1,3 @@
-تمام. لو هدفك تعمل **GitHub profile يدي انطباع Senior/Experienced Engineer من طريقة العرض**، نقدر نخليه تقيل جدًا من غير ما نحط شركات أو سنوات خبرة وهمية أو مشاريع Featured.
-
-هعمله **engineering-focused**: AI + backend + distributed systems + DevOps + data + agentic AI، والـskills واسعة، لكن بصياغة تخليها تبدو كـstack متكامل مش shopping list.
 
 <div align="center">
 
